@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 ## Problem 13
 #Adam Parler   ENGR 1410-013    January 31, 2014
 #Problem Statement: Calculate the weight of a metal rod
